@@ -4,7 +4,7 @@ public class ch5_4 {
         char oper='+';
 
         switch (oper) {
-            case '+':       //選擇值為'+''
+            case '+':       //選擇值為'+'
                 System.out.println(a+"+"+b+"="+(a+b));
                 break;
         case'-':            //選擇值為'-'
